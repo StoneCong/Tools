@@ -12,7 +12,7 @@ say("What is your name?")
 name = input("What is your name: ")
 say("Hi," + name)
 
-say("What do you want me to say: ")
+say("What do you want me to say:")
 message = input("message: ")
 say(message)
 
